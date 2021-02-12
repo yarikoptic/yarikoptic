@@ -1,4 +1,4 @@
-### Hi there, I'm Yarik 👋
+### Hi there, I'm Yaroslav O. Halchenko (AKA Yarik) 👋
 
 <!--
 KUDOS to @tsalo from whom I stole the idea and the initial version.
@@ -13,3 +13,5 @@ I try to answer questions on [NeuroStars](https://neurostars.org) when I have th
 📫 How to reach me: email me (one of the emails in all of my commits on github). I am also `yarikoptic` on Twitter and gmail.
 
 😄 Pronouns: he/him
+
+**Note**: my personal github.com/yarikoptic does not have that many interesting repositories. The vast majority are forks of repositories from project organizations.
