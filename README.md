@@ -15,7 +15,8 @@ I try to answer questions on [NeuroStars](https://neurostars.org) when I have th
 
 😄 Pronouns: he/him
 
-🎥 Mandatory watching: [Idiocracy](https://www.imdb.com/title/tt0387808/). Recommended watching: [Survive Style 5+](https://www.youtube.com/watch?v=Ycd2QAeEtDM).
+🎥 Mandatory watching: [Idiocracy](https://www.imdb.com/title/tt0387808/) ([YouTube](https://www.youtube.com/watch?v=0Tv5shB4Gg0)).
+Recommended watching: [Survive Style 5+](https://www.imdb.com/title/tt0430651/) ([YouTube](https://www.youtube.com/watch?v=Ycd2QAeEtDM)).
 
 **Note**: my personal [github.com/yarikoptic](https://github.com/yarikoptic) does not have that many interesting repositories.
 The vast majority are forks of repositories from project organizations.
