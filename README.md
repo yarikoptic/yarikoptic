@@ -17,6 +17,7 @@ I try to answer questions on [NeuroStars](https://neurostars.org) when I have th
 
 🎥 Mandatory watching: [Idiocracy](https://www.imdb.com/title/tt0387808/) ([YouTube](https://www.youtube.com/watch?v=0Tv5shB4Gg0)).
 Recommended watching: [Survive Style 5+](https://www.imdb.com/title/tt0430651/) ([YouTube](https://www.youtube.com/watch?v=Ycd2QAeEtDM)).
+(If you start cursing me for watching this movie, to rehabilitate watch [Headhunters](https://www.imdb.com/title/tt1614989/))
 
 **Note**: my personal [github.com/yarikoptic](https://github.com/yarikoptic) does not have that many interesting repositories.
 The vast majority are forks of repositories from project organizations.
