@@ -19,6 +19,8 @@ I try to answer questions on [NeuroStars](https://neurostars.org) when I have th
 Recommended watching: [Survive Style 5+](https://www.imdb.com/title/tt0430651/) ([YouTube](https://www.youtube.com/watch?v=Ycd2QAeEtDM)).
 (If you start cursing me for watching this movie, to rehabilitate watch [Headhunters](https://www.imdb.com/title/tt1614989/))
 
+📖 Reading: given all the rapid developments of the few last weeks with [OpenClaw](https://openclaw.ai/) et al - [Singularity series (William Hertling)](https://posthumans.fandom.com/wiki/Singularity_series_(William_Hertling)).
+
 **Note**: my personal [github.com/yarikoptic](https://github.com/yarikoptic) does not have that many interesting repositories.
 The vast majority are forks of repositories from project organizations.
 There is also other portals where I host source code/and data, which might not be mirrored here:
